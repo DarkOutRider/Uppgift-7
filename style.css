@@ -1,0 +1,19 @@
+
+
+.parent {
+    text-emphasis-color: rgb(192, 244, 5);
+    padding: 0.5rem;
+}
+
+.child1 {
+    background-color: aqua;
+}
+
+.child2 {
+    background-color: aquamarine;
+}
+
+.child3 {
+    background-color: rgb(200, 245, 245);
+}
+

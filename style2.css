@@ -1,0 +1,50 @@
+.parent {
+    display: block;
+    background-color: rgb(239, 250, 90);
+    padding: 0.5rem;
+    position: sticky;
+    top: 0;
+    font-weight: 900;
+    z-index: 2;
+    
+}
+
+body {
+    font-size: larger;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    margin-block: 0;
+    padding-block: 0;
+}
+
+.container {
+    margin-block: 0;
+    padding-block: 0;
+}
+
+.container p {
+    margin-block: 0;
+    padding-block: 0;
+}
+
+.child1 {
+    font-size: medium;
+    font-weight: 100;
+    padding-left: 1rem;
+    
+}
+
+.child2 {
+    font-size: medium;
+    font-weight: 100;
+    padding-left: 1rem;
+}
+
+.child3 {
+    font-size: medium;
+    font-weight: 100;
+    padding-left: 1rem;
+}
